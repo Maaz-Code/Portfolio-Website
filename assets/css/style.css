@@ -704,10 +704,10 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #f7f8f9;
-  color: #45505b;
+  color: #6a7783;
   font-size: 14px;
   text-align: center;
-  padding: 30px 0;
+  padding: 20px 0;
 }
 
 #footer h3 {
@@ -723,11 +723,11 @@ section {
   font-size: 15;
   font-style: italic;
   padding: 0;
-  margin: 0 0 40px 0;
+  margin: 0 0 30px 0;
 }
 
 #footer .social-links {
-  margin: 0 0 40px 0;
+  margin: 0 0 25px 0;
 }
 
 #footer .social-links a {
@@ -749,12 +749,4 @@ section {
   background: #0678e3;
   color: #fff;
   text-decoration: none;
-}
-
-#footer .copyright {
-  margin: 0 0 5px 0;
-}
-
-#footer .credits {
-  font-size: 13px;
 }
